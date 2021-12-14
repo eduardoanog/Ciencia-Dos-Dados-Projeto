@@ -60,7 +60,7 @@ Ao verificar o mecanismo de busca acadêmica do Google, em 15 de dezembro de 202
 Ao inspecionarmos visualmente uma amostra desse dataset, notamos que apesar das imagens serem coloridas, sua grande maioria apresenta basicamente escalas de cinza e algumas variações, conforme podemos observar na figura abaixo.
 
 <p align="center">
-  <img src="Documentacao/metu_sample.png" />
+  <img src="Documentacao/metu_sample.PNG" />
 </p>
     
 Outro fato importante a ser citado, também advindo da observação direta da base de dados, é que as imagens são em sua maioria límpidas, bem focadas e sem interferência de outros objetos.
