@@ -160,6 +160,21 @@ O processo de data augmentation foi aplicado a todas as imagens de treinamento e
   <img src="Documentacao/sdnet_test.png" />
 </p>
 
+
+<p align="center">
+  <img src="Documentacao/roc_auc_sdnet.png" />
+</p>
+
+
+<p align="center">
+  <img src="Documentacao/curves_sdnet.png" />
+</p>
+
+<p align="center">
+  <img src="Documentacao/sample_wrong_sdnet.png" />
+</p>
+
+
 ### Resultados da modelagem com dataset METU
 
 |    | ModeloBase   |   Threshold |   TN |   FP |   FN |   TP |      ACC |       PR |       RE |       F1 |      AUC |       Erro |   TempoTreinamento |
@@ -210,6 +225,21 @@ O processo de data augmentation foi aplicado a todas as imagens de treinamento e
 </p>
 
 
+<p align="center">
+  <img src="Documentacao/roc_auc_metu.png" />
+</p>
+
+
+<p align="center">
+  <img src="Documentacao/curves_metu.png" />
+</p>
+
+<p align="center">
+  <img src="Documentacao/sample_wrong_metu.png" />
+</p>
+
+
+
 ### Resultados da validação Cruzada: Treinamento com Dataset SDNET2018 e Teste com dataset METU
 
 
@@ -235,6 +265,14 @@ O processo de data augmentation foi aplicado a todas as imagens de treinamento e
 <p align="center">
   <img src="Documentacao/cv_sdnet.png" />
 </p>
+
+
+
+
+<p align="center">
+  <img src="Documentacao/cross_validation_SDNET_METU.png" />
+</p>
+
 
 
 ### Resultados da validação Cruzada: Treinamento com Dataset METU e Teste com dataset SDNET2018
@@ -263,6 +301,13 @@ O processo de data augmentation foi aplicado a todas as imagens de treinamento e
 </p>
 
 
+
+<p align="center">
+  <img src="Documentacao/cross_validation_METU_SDNET.png" />
+</p>
+
+
+
 ### Resultados da modelagem com extração de features com dataset SDNET2018
 
 | Mode      |   TN |   FP |   FN |   TP |      ACC |   PR |   RE |   F1 |     Erro |
@@ -271,7 +316,7 @@ O processo de data augmentation foi aplicado a todas as imagens de treinamento e
 | Teste     | 9522 |    0 | 1697 |    0 | 0.848739 |    0 |    0 |    0 | 0.151261 |
 
 <p align="center">
-  <img src="Documentacao/sample_dataAugmentation.png" />
+  <img src="Documentacao/tree_sdnet.png" />
 </p>
 
 ### Resultados da modelagem com extração de features com dataset METU
@@ -284,7 +329,7 @@ O processo de data augmentation foi aplicado a todas as imagens de treinamento e
 
 
 <p align="center">
-  <img src="Documentacao/sample_dataAugmentation.png" />
+  <img src="Documentacao/tree_metu.png" />
 </p>
 
 ## Referências
