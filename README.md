@@ -139,7 +139,7 @@ Dessa forma, acabamos por treinar somente a camada de decisão, que foi iniciada
 
 ## Resultados e discussão
 
-    Todos os modelos apresentados na seção de arquitetura de modelos foram treinados conforme as diretrizes descritas na seção treinamento e validação, tanto para o METU quanto para o SDNET2018 de forma isolada, e por fim, realizamos os testes de forma cruzada, isto é, treinamos o modelo em um dos datasets e aplicamos na partição de teste do outro dataset. Todos os resultados estão explícitos nas tabelas do anexo.
+Todos os modelos apresentados na seção de arquitetura de modelos foram treinados conforme as diretrizes descritas na seção treinamento e validação, tanto para o METU quanto para o SDNET2018 de forma isolada, e por fim, realizamos os testes de forma cruzada, isto é, treinamos o modelo em um dos datasets e aplicamos na partição de teste do outro dataset. Todos os resultados estão explícitos nas tabelas do anexo.
     
 ### Métricas para o METU
 
